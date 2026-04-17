@@ -7,7 +7,7 @@ public class TeamDemo {
         System.out.println("欢迎来到 Git 协作开发练习！");
 
         //模拟开发流程
-        
+
         //此处为alice
         System.out.println("这是一个问候消息");
     }
