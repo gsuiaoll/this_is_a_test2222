@@ -10,5 +10,10 @@ public class TeamDemo {
 
         //此处为alice
         System.out.println("这是一个问候消息");
+		
+		
+		
+		System.out.println("这是一个问候消息，我是陈思的朋友，测试是否成功，greatTest");
+		
     }
 }
